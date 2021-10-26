@@ -20,8 +20,8 @@ main:
     url: '#contact'
     weight: 60
   - name: CV
-      url: uploads/resume.pdf
-      weight: 70
+    url: uploads/resume.pdf
+    weight: 70
   #- name: Publications
   #  url: '#featured'
   #  weight: 50
