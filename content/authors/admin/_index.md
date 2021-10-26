@@ -51,7 +51,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/tomraster
 - icon: google-scholar  
-  icon_pack: fas
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=mbhGoXkAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
@@ -69,7 +69,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: tom.raster@psemail.eu
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -79,10 +79,6 @@ Welcome to my website!
 
 I am a third-year Ph.D. candidate (Economics) at the Paris School of Economics under the supervision of Thomas Piketty. In the 2021-22 academic year, I am a visiting student at the Harvard economics department.
 
-
-
-
-
-
+My current research focuses on historic trade, migration, and coerced labor in Eastern Europe.
 
 You can download my CV {{< staticref "https://www.parisschoolofeconomics.eu/docs/raster-tom/resume-raster-tom.pdf" "newtab" >}}here{{< /staticref >}}.
