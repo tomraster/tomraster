@@ -25,10 +25,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: PhD in Economics
+    institution: Paris School of Economics
+    year: 2019-2022 (expected)
+  - course: Visiting PhD student
+    institution: Harvard University
+    year: 2021-22
+  - course: Mphil in Economics
     institution: Massachusetts Institute of Technology
     year: 2009
   - course: BSc in Artificial Intelligence
