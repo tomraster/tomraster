@@ -16,9 +16,9 @@ main:
   - name: Teaching
     url: '#teaching'
     weight: 50
-  - name: Contact
-    url: '#contact'
-    weight: 60
+  #- name: Contact
+  #  url: '#contact'
+  #  weight: 60
   - name: CV
     url: "https://www.parisschoolofeconomics.eu/docs/raster-tom/resume-raster-tom.pdf"  #uploads/resume.pdf
     weight: 70
