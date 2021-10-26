@@ -82,4 +82,4 @@ I am a third-year Ph.D. candidate (Economics) at the Paris School of Economics u
 
 My current research focuses on historic trade, migration, and coerced labor in Eastern Europe.
 
-If you would like to know more, browse this website and download my {{< staticref "https://www.parisschoolofeconomics.eu/docs/raster-tom/resume-raster-tom.pdf" "newtab" >}} CV {{< /staticref >}}.
+If you would like to know more, download my {{< staticref "https://www.parisschoolofeconomics.eu/docs/raster-tom/resume-raster-tom.pdf" "newtab" >}}CV{{< /staticref >}}.
