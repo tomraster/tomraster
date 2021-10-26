@@ -13,13 +13,13 @@ main:
   - name: Seminars
     url: '#seminars'
     weight: 40
-   - name: Teaching
+  - name: Teaching
     url: '#teaching'
     weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
-  = name: CV
+  - name: CV
       url: "https://www.parisschoolofeconomics.eu/docs/raster-tom/resume-raster-tom.pdf""
       weight: 70
 
