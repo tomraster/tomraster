@@ -3,11 +3,11 @@
 # Documentation: https://wowchemy.com/docs/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-# Appearance
+# Appearance #minimal
 
-theme: cypberpunk   #minimal
+theme: cypberpunk
 day_night: false
-font: classic
+font: mr robot
 font_size: L
 
 # SEO
