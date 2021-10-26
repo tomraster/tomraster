@@ -7,6 +7,9 @@ title: Tom Raster # Website name
 baseurl: 'https://tomraster.com/' # Website URL
 copyright: '© {year} Tom Raster' # Footer text, e.g. '© {year} Me'
 
+portrait_css = ["css/portrait.css"]
+
+
 ############################
 ## LANGUAGE
 ############################
