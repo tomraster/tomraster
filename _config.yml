@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
-portrait_css = ["css/portrait.css"]
+[params]
+    custom_css = ["css/foo.css", "css/bar.css"]
+#portrait_css = ["css/portrait.css"]
