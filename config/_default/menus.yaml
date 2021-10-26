@@ -20,7 +20,7 @@ main:
     url: '#contact'
     weight: 60
   - name: CV
-      url: "https://www.parisschoolofeconomics.eu/docs/raster-tom/resume-raster-tom.pdf""
+      url: "https://www.parisschoolofeconomics.eu/docs/raster-tom/resume-raster-tom.pdf"
       weight: 70
 
   #- name: Publications
