@@ -30,13 +30,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Economics
+  - course: PhD Economics
     institution: Paris School of Economics
     year: 2019-22 (expected)
   - course: Visiting PhD student
     institution: Harvard University
     year: 2021-22
-  - course: Mphil in Economics
+  - course: Mphil Economics
     institution: Paris School of Economics
     year: 2017-19
   - course: BSc (Hons.) Economics
@@ -85,4 +85,4 @@ I am a third-year Ph.D. candidate (Economics) at the Paris School of Economics u
 
 My current research focuses on historic trade, migration, and coerced labor in Eastern Europe.
 
-If you would like to know more, download my {{< staticref "https://www.parisschoolofeconomics.eu/docs/raster-tom/resume-raster-tom.pdf" "newtab" >}}CV{{< /staticref >}}.
+If you would like to know more, you can download my {{< staticref "https://www.parisschoolofeconomics.eu/docs/raster-tom/resume-raster-tom.pdf" "newtab" >}}CV{{< /staticref >}}.
