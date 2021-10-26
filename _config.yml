@@ -1,3 +1,2 @@
 theme: jekyll-theme-cayman
-
-portrait_css = ["css/portrait.css"]
+#portrait_css = ["css/portrait.css"]
