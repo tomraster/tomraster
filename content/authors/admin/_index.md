@@ -2,6 +2,8 @@
 # Display name
 title: Tom Raster
 
+dd
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -14,13 +16,14 @@ organizations:
   url: https://www.parisschoolofeconomics.eu/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- international trade
+- labor
+- migration
+- economic history
 
 # Education to show in About widget
 education:
@@ -32,11 +35,11 @@ education:
     institution: Harvard University
     year: 2021-22
   - course: Mphil in Economics
-    institution: Massachusetts Institute of Technology
+    institution: Paris School of Economics
     year: 2017-19
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc Economics
+    institution: University of Groningen
+    year: 2013-16
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
