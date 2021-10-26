@@ -1,6 +1,5 @@
 ---
 
-<link rel="portrait" href="/assets/css/portrait.css">
 
 # Display name
 title: Tom Raster
