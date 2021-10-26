@@ -50,7 +50,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/tomraster
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack # graduation-cap
+- icon: google-scholar  
   icon_pack: fas
   link: https://scholar.google.com/citations?user=mbhGoXkAAAAJ&hl=en&oi=ao
 - icon: github
@@ -60,6 +60,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/tomraster/
 
+# Alternatively, use `google-scholar` icon from `ai` icon pack # graduation-cap
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
