@@ -78,7 +78,7 @@ highlight_name: true
 
 Welcome to my website!
 
-I am a third-year Ph.D. candidate (Economics) at the Paris School of Economics under the supervision of Thomas Piketty. In the 2021-22 academic year, I am a visiting student at the Harvard economics department.
+I am a third-year Ph.D. candidate (Economics) at the Paris School of Economics under the supervision of {{< staticref "http://piketty.pse.ens.fr/en/" "newtab" >}}Thomas Piketty{{< /staticref >}}. In the 2021-22 academic year, I am a visiting student at the Harvard economics department.
 
 My current research focuses on historic trade, migration, and coerced labor in Eastern Europe.
 
