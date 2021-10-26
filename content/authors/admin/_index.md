@@ -6,7 +6,7 @@ title: Tom Raster
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. candidate (Economics)
+role: Ph.D. candidate in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -27,7 +27,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Economics
+  - course: Ph.D. in Economics
     institution: Paris School of Economics
     year: 2019-22 (expected)
   - course: Visiting PhD student
@@ -36,7 +36,7 @@ education:
   - course: Mphil in Economics
     institution: Paris School of Economics
     year: 2017-19
-  - course: BSc Economics
+  - course: BSc (Hons.) Economics
     institution: University of Groningen
     year: 2013-16
 
