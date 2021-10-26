@@ -19,7 +19,7 @@ organizations:
 bio: 
 
 # Interests to show in About widget
-interests:
+research interests:
 - international trade
 - labor
 - migration
