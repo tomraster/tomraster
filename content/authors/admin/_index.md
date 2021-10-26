@@ -8,12 +8,12 @@ title: Tom Raster
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. candidate in Economics
+role: PhD candidate in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Paris School of Economics
-  url: https://www.parisschoolofeconomics.eu/en/
+  #url: https://www.parisschoolofeconomics.eu/en/
 - name: Office 5-70,
 - name: 48 Boulevard Jourdan, Paris, 7015
 - name: tom.raster@psemail.eu
@@ -30,7 +30,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. in Economics
+  - course: PhD in Economics
     institution: Paris School of Economics
     year: 2019-22 (expected)
   - course: Visiting PhD student
