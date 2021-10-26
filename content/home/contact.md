@@ -7,7 +7,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: ""
 
 title: Contact
 subtitle: Feel free to contact me by email.
