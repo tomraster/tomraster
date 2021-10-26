@@ -7,7 +7,7 @@
 
 theme: cypberpunk   #minimal
 day_night: false
-font: ''
+font: classic
 font_size: L
 
 # SEO
