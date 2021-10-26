@@ -28,7 +28,7 @@
 }
 
 .avatar-square {
-  border-radius: 3px;
+  border-radius: 0px;
 }
 
 .portrait-title h2 {
