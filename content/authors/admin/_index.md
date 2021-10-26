@@ -11,7 +11,7 @@ role: Ph.D. candidate (Economics)
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Paris School of Economics
-  url: https://www.stanford.edu/
+  url: https://www.parisschoolofeconomics.eu/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -27,13 +27,13 @@ education:
   courses:
   - course: PhD in Economics
     institution: Paris School of Economics
-    year: 2019-2022 (expected)
+    year: 2019-22 (expected)
   - course: Visiting PhD student
     institution: Harvard University
     year: 2021-22
   - course: Mphil in Economics
     institution: Massachusetts Institute of Technology
-    year: 2009
+    year: 2017-19
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
