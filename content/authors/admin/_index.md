@@ -74,6 +74,9 @@ email: ""
 highlight_name: true
 ---
 
+Welcome to my website!
+
+I am a third-year Ph.D. candidate (Economics) at the Paris School of Economics under the supervision of Thomas Piketty. In the 2021-22 academic year, I am a visiting student at the Harvard economics department.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
