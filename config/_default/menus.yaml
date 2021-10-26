@@ -10,8 +10,8 @@ main:
   - name: Research
     url: '#research'
     weight: 30
-  - name: Seminars
-    url: '#seminars'
+  - name: Talks
+    url: '#talks'
     weight: 40
   - name: Teaching
     url: '#teaching'
@@ -20,7 +20,7 @@ main:
     url: '#contact'
     weight: 60
   - name: CV
-    url: uploads/resume.pdf
+    url: "https://www.parisschoolofeconomics.eu/docs/raster-tom/resume-raster-tom.pdf"  #uploads/resume.pdf
     weight: 70
   #- name: Publications
   #  url: '#featured'
