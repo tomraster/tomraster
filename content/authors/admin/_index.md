@@ -91,4 +91,6 @@ I am a third-year Ph.D. candidate (Economics) at the Paris School of Economics u
 
 In the 2021-22 academic year, I am a visiting student at the Harvard economics department.
 
-My current research focuses on coerced labor in Eastern Europe. My CV is available {{< staticref "https://www.parisschoolofeconomics.eu/docs/raster-tom/resume-raster-tom.pdf" "newtab" >}}here{{< /staticref >}}.
+My current research focuses on coerced labor in Eastern Europe. As part of this, I collect adn work with archival data and historical data that has been crowd-sourced.
+
+My CV is available {{< staticref "https://www.parisschoolofeconomics.eu/docs/raster-tom/resume-raster-tom.pdf" "newtab" >}}here{{< /staticref >}}.
