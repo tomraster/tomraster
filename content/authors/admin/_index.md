@@ -32,7 +32,7 @@ education:
   courses:
   - course: PhD Economics
     institution: Paris School of Economics
-    year: 2019-22 (expected)
+    year: 2019-23 (expected)
   - course: Visiting PhD student
     institution: Harvard University
     year: 2021-22
@@ -87,8 +87,8 @@ highlight_name: true
 
 Welcome to my website!
 
-I am a third-year Ph.D. candidate (Economics) at the Paris School of Economics under the supervision of {{< staticref "http://piketty.pse.ens.fr/en/" "newtab" >}}Thomas Piketty{{< /staticref >}}. In the 2021-22 academic year, I am a visiting student at the Harvard economics department.
+I am a third-year Ph.D. candidate (Economics) at the Paris School of Economics under the supervision of {{< staticref "http://piketty.pse.ens.fr/en/" "newtab" >}}Thomas Piketty{{< /staticref >}}. 
 
-My current research focuses on historic trade, migration, and coerced labor in Eastern Europe.
+In the 2021-22 academic year, I am a visiting student at the Harvard economics department.
 
-If you would like to know more, you can download my {{< staticref "https://www.parisschoolofeconomics.eu/docs/raster-tom/resume-raster-tom.pdf" "newtab" >}}CV{{< /staticref >}}.
+My current research focuses on coerced labor in Eastern Europe. My CV is available {{< staticref "https://www.parisschoolofeconomics.eu/docs/raster-tom/resume-raster-tom.pdf" "newtab" >}}here{{< /staticref >}}.
