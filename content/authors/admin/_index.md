@@ -22,9 +22,9 @@ bio:
 
 # Interests to show in About widget
 interests:
-- international trade
 - labor
 - migration
+- trade
 - economic history
 
 # Education to show in About widget
@@ -39,9 +39,15 @@ education:
   - course: Mphil Economics
     institution: Paris School of Economics
     year: 2017-19
+  - course: MA Economics
+    institution: University of British Columbia
+    year: 2016-17
   - course: BSc (Hons.) Economics
     institution: University of Groningen
     year: 2013-16
+  - course: Visting BSc student
+    institution: Kyoto University
+    year: 2015-2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
