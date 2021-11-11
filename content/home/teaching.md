@@ -39,9 +39,9 @@ design:
   view: 4
 ---
 
-#University of British Columbia:
+**University of British Columbia:**
 Microeconomics, Understanding Globalization
 
-#University of Groningen: 
+**University of Groningen:** 
 
 Asset Pricing & Capital Budgeting, International Economics, Mathematics I & II, Statistics
