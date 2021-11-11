@@ -39,3 +39,24 @@ design:
   #   4 = Citation (publication only)
   view: 1
 ---
+
+**2021**
+
+History workshop (PSE), Pol Econ Tea (×2, Harvard), Economic History Workshop (Harvard)
+
+**2020**
+
+Applied Lunch (PSE), GSIE (PSE/Universit´e Paris 1)
+
+**2019**
+
+Baltic Connections (U. Helsinki)
+
+**2018**
+
+Economics-Econometrics-Finance seminar (U. Groningen), Economic History Association (poster, San
+Jose)
+
+
+
+
