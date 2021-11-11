@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: featured
+# Documentation: https://wowchemy.com/docs/page-builder/ formerly featured
+widget: blank
 
 # This file represents a page section.
 headless: true
@@ -36,3 +36,5 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
+
+soon to come
