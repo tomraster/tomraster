@@ -40,8 +40,15 @@ design:
 ---
 
 **University of British Columbia:**
-Microeconomics, Understanding Globalization
+
+- Microeconomics
+
+- Understanding Globalization
 
 **University of Groningen:** 
 
-Asset Pricing & Capital Budgeting, International Economics, Mathematics I & II, Statistics
+- Asset Pricing & Capital Budgeting
+- International Economics
+- Mathematics I
+- Mathematics II
+- Statistics
