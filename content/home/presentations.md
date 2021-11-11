@@ -46,7 +46,7 @@ History workshop (PSE), Pol Econ Tea (×2, Harvard), Economic History Workshop (
 
 **2020**
 
-Applied Lunch (PSE), GSIE (PSE/Universit´e Paris 1)
+Applied Lunch (PSE), GSIE (PSE/Université Paris 1)
 
 **2019**
 
