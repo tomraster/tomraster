@@ -93,6 +93,4 @@ In the 2021-22 academic year, I am a visiting student at the Harvard economics d
 
 My current research focuses on historic coerced labor, trade, and migration in and from Eastern Europe.
 
-# and I'm facinated by traders travelling to new destination. As part of this, I collect and work with archival data as well as historical data that has been crowd-sourced. 
-
 My CV is available {{< staticref "https://www.parisschoolofeconomics.eu/docs/raster-tom/resume-raster-tom.pdf" "newtab" >}}here{{< /staticref >}}.
