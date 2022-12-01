@@ -22,9 +22,9 @@ bio:
 
 # Interests to show in About widget
 interests:
+- trade
 - labor
 - migration
-- trade
 - economic history
 
 # Education to show in About widget
@@ -32,10 +32,10 @@ education:
   courses:
   - course: PhD Economics
     institution: Paris School of Economics
-    year: 2019-23 (expected)
+    year: 2019-
   - course: Visiting PhD student
     institution: Harvard University
-    year: 2021-22
+    year: 2021-23
   - course: Mphil Economics
     institution: Paris School of Economics
     year: 2017-19
