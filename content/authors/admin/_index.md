@@ -36,7 +36,7 @@ education:
   - course: Research and teaching fellow
     institution: Harvard University
     year: 2021-23
-  - course: Mphil Economics
+  - course: Mphil Economics (highest honors)
     institution: Paris School of Economics
     year: 2017-19
   #- course: MA Economics
