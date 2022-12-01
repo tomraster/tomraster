@@ -39,6 +39,10 @@ design:
   view: 4
 ---
 
+**Harvard University:**
+
+- International Political Economy
+
 **University of British Columbia:**
 
 - Microeconomics
