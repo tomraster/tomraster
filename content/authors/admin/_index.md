@@ -87,9 +87,9 @@ highlight_name: true
 
 Welcome to my website!
 
-I am a third-year Ph.D. candidate (Economics) at the Paris School of Economics under the supervision of {{< staticref "http://piketty.pse.ens.fr/en/" "newtab" >}}Thomas Piketty{{< /staticref >}}. 
+I am a fourth-year Ph.D. candidate in Economics at the Paris School of Economics under the supervision of {{< staticref "http://piketty.pse.ens.fr/en/" "newtab" >}}Thomas Piketty{{< /staticref >}}. 
 
-In the 2021-22 academic year, I am a visiting student at the Harvard economics department.
+From 2021 to 2023, I am a research and teaching fellow at the Harvard economics department. I'm also fellow at Institut Convergences Migrations, the World Inequality Lab, and Harvard's IQSS.
 
 My current research focuses on historic coerced labor, trade, and migration in and from Eastern Europe.
 
