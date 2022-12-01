@@ -93,4 +93,4 @@ From 2021 to 2023, I am a research and teaching fellow at the Harvard economics 
 
 My current research focuses on historic coerced labor, trade, and migration in and from Eastern Europe.
 
-My CV is available {{< staticref "https://www.parisschoolofeconomics.eu/docs/raster-tom/resume-raster-tom.pdf" "newtab" >}}here{{< /staticref >}}. Please feel free to reach out: tom.raster[ät]psemail.eu
+My CV is available {{< staticref "https://www.parisschoolofeconomics.eu/docs/raster-tom/resume-raster-tom.pdf" "newtab" >}}here{{< /staticref >}}. Please feel free to reach out: tom.raster[at]psemail.eu
