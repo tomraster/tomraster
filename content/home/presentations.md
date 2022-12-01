@@ -39,6 +39,9 @@ design:
   #   4 = Citation (publication only)
   view: 1
 ---
+**2022**
+
+Economic History Workshop (Harvard), International workshop (Harvard), Applied Lunch (PSE), History Tea (Harvard)
 
 **2021**
 
