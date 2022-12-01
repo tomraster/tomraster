@@ -33,7 +33,7 @@ education:
   - course: PhD Economics
     institution: Paris School of Economics
     year: 2019-
-  - course: Visiting PhD student
+  - course: Research and teaching fellow
     institution: Harvard University
     year: 2021-23
   - course: Mphil Economics
