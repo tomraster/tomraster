@@ -63,12 +63,12 @@ social:
 - icon: google-scholar  
   icon_pack: ai
   link: https://scholar.google.com/citations?user=mbhGoXkAAAAJ&hl=en&oi=ao
-- icon: github
-  icon_pack: fab
-  link: https://github.com/tomraster
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/tomraster/
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/tomraster
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/tomraster/
 
 # Alternatively, use `google-scholar` icon from `ai` icon pack # graduation-cap
 # Link to a PDF of your resume/CV.
@@ -93,4 +93,4 @@ From 2021 to 2023, I am a research and teaching fellow at the Harvard economics 
 
 My current research focuses on historic coerced labor, trade, and migration in and from Eastern Europe.
 
-My CV is available {{< staticref "https://www.parisschoolofeconomics.eu/docs/raster-tom/resume-raster-tom.pdf" "newtab" >}}here{{< /staticref >}}.
+My CV is available {{< staticref "https://www.parisschoolofeconomics.eu/docs/raster-tom/resume-raster-tom.pdf" "newtab" >}}here{{< /staticref >}}. Please feel free to reach out: tom.raster[ät]psemail.eu
