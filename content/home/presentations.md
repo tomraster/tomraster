@@ -65,6 +65,6 @@ Economics-Econometrics-Finance seminar (U. Groningen), Economic History Associat
 Jose)
 
 
-* marks scheduled, ° marks presentation by co-author
+° marks presentation by co-author, * marks scheduled
 
 
