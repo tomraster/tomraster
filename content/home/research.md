@@ -37,4 +37,11 @@ design:
   view: 3
 ---
 
-soon to come
+**Selected work in progress**
+
+Collective memory: Evidence from first names (w/ {{< staticref "https://www.economics.ku.dk/staff/phd_kopi/?pure=en/persons/395723" "newtab" >}}Lars Harhoff Andersen{{< /staticref >}}, U Copenhagen)
+
+The long-run political effects of refugees: Evidence from post-WWII Germany (w/ {{< staticref "https://www.diw.de/sixcms/detail.php?id=diw_01.c.827304.en" "newtab" >}}Li Yang{{< /staticref >}}, DIW)
+
+
+
