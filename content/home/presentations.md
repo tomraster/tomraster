@@ -41,7 +41,7 @@ design:
 ---
 **2023**
 
-Princeton*, Applied Lunch (PSE)*, Atelier Simiand (EHESS)*
+Grad seminar (Princeton)*, Applied Lunch (PSE)*, Atelier Simiand (EHESS)*
 
 **2022**
 
