@@ -49,7 +49,7 @@ Economic History Workshop (Harvard), International workshop (Harvard), Applied L
 
 **2021**
 
-History workshop (PSE), Pol Econ Tea (×2, Harvard), Economic History Workshop (Harvard)
+Atelier Simiand (EHESS), Pol Econ Tea (×2, Harvard), Economic History Workshop (Harvard)
 
 **2020**
 
