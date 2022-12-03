@@ -39,7 +39,12 @@ design:
 
 **Selected work in progress**
 
-- When Labor Scarcity Raises Coercion: Evidence from the Great Northern War Plague <br/><br/></li>
+- When Labor Scarcity Raises Coercion: Evidence from the Great Northern War Plague <br/><br/></li> <img src="/images/EAA.1.2.C-III-23.jpg" alt="dwarf" width="100" class="about-left"> <br/><br/></li>
+
+- The Hanseatic League: Breakdown of a cartel? <br/><br/></li>
+
+- 
+
 - Collective memory: Evidence from first names<br> with {{< staticref "https://www.economics.ku.dk/staff/phd_kopi/?pure=en/persons/395723" "newtab" >}}Lars Harhoff Andersen{{< /staticref >}}, U Copenhagen <br/><br/></li>
 
 - The long-run political effects of refugees: Evidence from post-WWII Germany<br> with {{< staticref "https://www.diw.de/sixcms/detail.php?id=diw_01.c.827304.en" "newtab" >}}Li Yang{{< /staticref >}}, DIW
