@@ -95,4 +95,4 @@ I'm a fellow at the {{< staticref "https://www.icmigrations.cnrs.fr/" "newtab" >
 
 My CV is available {{< staticref "https://www.parisschoolofeconomics.eu/docs/raster-tom/resume-raster-tom.pdf" "newtab" >}}here{{< /staticref >}}. 
 
-Don't hesitate to contact me at <a href = "mailto: tom.raster@psemail.eu">tom.raster@psemail.eu</a> and <a href="https://twitter.com/tomraster?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @tomraster</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>.
+Don't hesitate to contact me at <a href = "mailto: tom.raster@psemail.eu">tom.raster@psemail.eu</a> and <a href="https://twitter.com/tomraster?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @tomraster</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
