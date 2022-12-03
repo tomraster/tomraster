@@ -85,7 +85,7 @@ email: tom.raster@psemail.eu
 highlight_name: true
 ---
 
-Welcome to my website!
+Welcome to my website! 👋
 
 I'm a fourth-year Ph.D. candidate in Economics at the Paris School of Economics under the supervision of {{< staticref "http://piketty.pse.ens.fr/en/" "newtab" >}}Thomas Piketty{{< /staticref >}}. 
 
