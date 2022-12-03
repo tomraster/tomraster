@@ -43,7 +43,7 @@ design:
 
 - When Labor Scarcity Raises Coercion: Evidence from the Great Northern War Plague <br/><br/></li> <img src="/images/EAA.1.2.C-III-23.jpg" alt="EAA.1.2.C-III-23" width="100" class="about-left"> <br/><br/></li>
 
-#- The Hanseatic League: Breakdown of a cartel? <br/><br/></li> 
+<!-- <p>- The Hanseatic League: Breakdown of a cartel? <br/><br/></li> </p> -->
 
 - Collective memory: Evidence from first names<br> with {{< staticref "https://www.economics.ku.dk/staff/phd_kopi/?pure=en/persons/395723" "newtab" >}}Lars Harhoff Andersen{{< /staticref >}}, U Copenhagen <br/><br/></li>
 
