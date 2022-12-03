@@ -39,9 +39,13 @@ design:
   #   4 = Citation (publication only)
   view: 1
 ---
+**2023**
+
+Princeton*, Applied Lunch (PSE)*, Atelier Simiand (EHESS)*
+
 **2022**
 
-Economic History Workshop (Harvard), International workshop (Harvard), Applied Lunch (PSE), History Tea (Harvard)
+Economic History Workshop (Harvard), International workshop (Harvard), Applied Lunch (x2, PSE), History Tea (Harvard), Graduate Economic History Seminar (LSE)*, Cluster Seminar (DIW)°, Economics PhD Seminar (U Copenhagen)°
 
 **2021**
 
@@ -61,5 +65,6 @@ Economics-Econometrics-Finance seminar (U. Groningen), Economic History Associat
 Jose)
 
 
+* marks scheduled, ° marks presentation by co-author
 
 
