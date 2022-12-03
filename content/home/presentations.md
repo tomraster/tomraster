@@ -46,7 +46,7 @@ Grad seminar (Princeton)<sup>s</sup>, Applied Lunch (PSE)<sup>s</sup>, Atelier S
 **2022**
 
 Graduate Economic History Seminar (LSE)<sup>s</sup>,
-Economic History Workshop (Harvard), International workshop (Harvard), History Tea (Harvard), Poltical Economy workshop (Harvard),
+Economic History Workshop (Harvard), International workshop (Harvard), History Tea (Harvard), Poltical Economy Workshop (Harvard),
 Applied Lunch (x1 & x1<sup>c</sup>, PSE),
 Cluster Seminar (DIW)<sup>c</sup>, Economics PhD Seminar (U Copenhagen)<sup>c</sup>
 
