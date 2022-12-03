@@ -41,11 +41,11 @@ design:
 ---
 **2023**
 
-Grad seminar (Princeton)*, Applied Lunch (PSE)*, Atelier Simiand (EHESS)*
+Grad seminar (Princeton)†, Applied Lunch (PSE)†, Atelier Simiand (EHESS)†
 
 **2022**
 
-Economic History Workshop (Harvard), International workshop (Harvard), Applied Lunch (x2, PSE), History Tea (Harvard), Graduate Economic History Seminar (LSE)*, Cluster Seminar (DIW)°, Economics PhD Seminar (U Copenhagen)°
+Economic History Workshop (Harvard), International workshop (Harvard), Applied Lunch (x2, PSE), History Tea (Harvard), Graduate Economic History Seminar (LSE)†, Cluster Seminar (DIW)°, Economics PhD Seminar (U Copenhagen)°
 
 **2021**
 
@@ -65,6 +65,6 @@ Economics-Econometrics-Finance seminar (U. Groningen), Economic History Associat
 Jose)
 _____
 
-° marks presentation by co-author, * marks scheduled
+† marks scheduled, ° marks presentation by co-author
 
 
