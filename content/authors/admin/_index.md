@@ -95,4 +95,4 @@ My research focuses on historic coerced labor, trade :sailboat:, and migration i
 
 My CV is available {{< staticref "https://www.parisschoolofeconomics.eu/docs/raster-tom/resume-raster-tom.pdf" "newtab" >}}here{{< /staticref >}}. 
 
-Don't hesitate to contact me at tom.raster[at]psemail.eu :simple_smile:
+Don't hesitate to contact me at tom.raster[at]psemail.eu 😃
