@@ -63,7 +63,7 @@ Baltic Connections (U. Helsinki)
 
 Economics-Econometrics-Finance seminar (U. Groningen), Economic History Association (poster, San
 Jose)
-
+_____
 
 ° marks presentation by co-author, * marks scheduled
 
