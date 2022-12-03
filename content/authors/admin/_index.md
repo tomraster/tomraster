@@ -85,6 +85,8 @@ email: tom.raster@psemail.eu
 highlight_name: true
 ---
 
+.post-content p {
+    text-align: justify;
 Welcome to my website! 👋
 
 I'm a fourth-year Ph.D. candidate in Economics at the Paris School of Economics under the supervision of {{< staticref "http://piketty.pse.ens.fr/en/" "newtab" >}}Thomas Piketty{{< /staticref >}}. 
@@ -96,3 +98,4 @@ I'm a fellow at the {{< staticref "https://www.icmigrations.cnrs.fr/" "newtab" >
 My CV is available {{< staticref "https://www.parisschoolofeconomics.eu/docs/raster-tom/resume-raster-tom.pdf" "newtab" >}}here{{< /staticref >}}. 
 
 Don't hesitate to contact me at <a href = "mailto: tom.raster@psemail.eu">tom.raster@psemail.eu</a> and <a href="https://twitter.com/tomraster?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @tomraster</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+}
