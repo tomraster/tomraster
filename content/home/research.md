@@ -39,7 +39,7 @@ design:
 
 **Selected work in progress**
 
-- Persitence of trading relationships <br/><br/></li> 
+- Persistence of trading relationships <br/><br/></li> 
 - When Labor Scarcity Raises Coercion: Evidence from the Great Northern War Plague <br/><br/></li> <img src="/images/EAA.1.2.C-III-23.jpg" alt="EAA.1.2.C-III-23" width="100" class="about-left"> <br/><br/></li>
 
 - The Hanseatic League: Breakdown of a cartel? <br/><br/></li> 
