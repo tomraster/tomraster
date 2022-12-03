@@ -44,8 +44,10 @@ design:
 Grad seminar (Princeton)<sup>s</sup>, Applied Lunch (PSE)<sup>s</sup>, Atelier Simiand (EHESS)<sup>s</sup>
 
 **2022**
-
-Economic History Workshop (Harvard), International workshop (Harvard), Applied Lunch (x2, PSE), History Tea (Harvard), Graduate Economic History Seminar (LSE)<sup>s</sup>, Cluster Seminar (DIW)<sup>c</sup>, Economics PhD Seminar (U Copenhagen)<sup>c</sup>
+Graduate Economic History Seminar (LSE)<sup>s</sup>,
+Economic History Workshop (Harvard), International workshop (Harvard), History Tea (Harvard), Poltical Economy workshop (Harvard),
+Applied Lunch (x1 & x1<sup>c</sup>, PSE),
+Cluster Seminar (DIW)<sup>c</sup>, Economics PhD Seminar (U Copenhagen)<sup>c</sup>
 
 **2021**
 
