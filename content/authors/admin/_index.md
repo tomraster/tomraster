@@ -12,7 +12,7 @@ role: PhD candidate in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Paris School of Economics (Office 5-70)
+- name: Paris School of Economics
   #url: https://www.parisschoolofeconomics.eu/en/
 #- name: Office 5-70,
 #- name: 48 Boulevard Jourdan, Paris, 7015
