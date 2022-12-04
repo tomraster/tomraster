@@ -47,7 +47,7 @@ Grad seminar (Princeton)<sup>s</sup>, Applied Lunch (PSE)<sup>s</sup>, Atelier S
 
 Graduate Economic History Seminar (LSE)<sup>s</sup>,
 Economic History Workshop (Harvard), International workshop (Harvard), History Tea (Harvard), Poltical Economy Workshop (Harvard),
-Applied Lunch (x1 & x1<sup>c</sup>, PSE),
+Applied Lunch (x1 & x1<sup>c</sup>, PSE), XIX World Economic History Congress
 Cluster Seminar (DIW)<sup>c</sup>, Economics PhD Seminar (U Copenhagen)<sup>c</sup>
 
 **2021**
