@@ -55,7 +55,7 @@ Turning to the consequences of labor coercion, I exploit the uncovered scarcity-
 
 <!-- <p>- The Hanseatic League: Breakdown of a cartel? <br/><br/></li> </p> -->
 
-- **Collective memory: Evidence from first names**<br> with {{< staticref "https://www.economics.ku.dk/staff/phd_kopi/?pure=en/persons/395723" "newtab" >}}Lars Harhoff Andersen{{< /staticref >}}, U Copenhagen <br/><br/></li>
+- **Collective memory: Evidence from first names**<br> with {{< staticref "https://www.economics.ku.dk/staff/phd_kopi/?pure=en/persons/395723" "newtab" >}}Lars Harhoff Andersen{{< /staticref >}}, U Copenhagen
 <details>
 <summary>Abstract</summary>
  
