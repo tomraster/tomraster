@@ -47,7 +47,9 @@ design:
 <summary>Abstract</summary>
  
 Most workers in history and a substantial share of workers today are coerced into accepting employment and its terms through force or the threat of force. What drives labor coercion, and what are its consequences?
+
 This paper provides the first estimate of the causal effect of a major hypothesized determinant of coercion, labor scarcity. Theoretically and observational, however, the effects of labor scarcity are ambiguous. For example, Western Europe saw a decline in coercion following the ravaging of the Black Death, while coercion intensified in Eastern Europe. I focus on Estonia before and after the Great Northern War plague (1710-12), drawing on extensive, hand-transcribed data on tens of thousands of serf households and their labor contracts. I show that the plague generated immense spatial variation in labor scarcity that is uncorrelated with a host of characteristics. Exploiting this locally quasi-random variation, I find that labor scarcity substantially raises coercion, as measured by serfs’ work obligation. Investigating mechanisms, I find that this effect is enhanced by the lack of outside options and increased labor monopsony power, in accordance with the prediction of historians and theoretical models. Taken together, these findings give important insights into the circumstances under which coercion increases and provide suggestive evidence why it did not in other cases (e.g., post-Black Death Western Europe).
+
 Turning to the consequences of labor coercion, I exploit the uncovered scarcity-coercion relationship and instrument coercion intensity with plague deaths. I find that (instrumented) labor coercion decreases historic literacy and present-day levels of trust. These findings contribute to a literature that reports mixed consequences of labor coercion and introduce migration as a new mechanism.
 </details>
 
