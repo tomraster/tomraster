@@ -41,6 +41,17 @@ design:
 
 - Persistence of trading relationships <br/><br/></li> 
 
+<details>
+  <summary>
+
+    **Lorem ipsum**
+
+  </summary>
+
+  Lorem ipsum _dolor sit amet_, consectetur [adipiscing elit](https://example.org/)
+
+</details>
+
 - When Labor Scarcity Raises Coercion: Evidence from the Great Northern War Plague <br/><br/></li>
 
 Most workers in history and a substantial share of workers today are coerced into accepting employment and its terms through force or the threat of force. What drives labor coercion, and what are its consequences?
