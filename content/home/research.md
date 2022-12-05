@@ -42,11 +42,6 @@ design:
 - Persistence of trading relationships <br/><br/></li> 
 
 <details>
-  <summary>
-
-    Abstract
-
-  </summary>
 
   Lorem ipsum _dolor sit amet_, consectetur [adipiscing elit](https://example.org/)
 
