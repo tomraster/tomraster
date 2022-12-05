@@ -44,7 +44,7 @@ design:
 <details>
   <summary>
 
-    **Lorem ipsum**
+    Abstract
 
   </summary>
 
