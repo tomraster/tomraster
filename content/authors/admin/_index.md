@@ -85,9 +85,7 @@ email: tom.raster@psemail.eu
 highlight_name: true
 ---
 
-Welcome to my website! 👋
-
-I'm a Ph.D. candidate in Economics at the Paris School of Economics supervised by {{< staticref "http://piketty.pse.ens.fr/en/" "newtab" >}}Thomas Piketty{{< /staticref >}}. 
+Welcome to my website! 👋 I'm a Ph.D. candidate in Economics at the Paris School of Economics supervised by {{< staticref "http://piketty.pse.ens.fr/en/" "newtab" >}}Thomas Piketty{{< /staticref >}}. 
 
 My [research](#research) mainly focuses on historic forced labor, trade, and migration involving Eastern Europe. I'm particularly passionate about unlocking and leveraging large-scale archival data.
 
