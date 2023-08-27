@@ -11,7 +11,7 @@ weight: 90
 
 active: true
 
-title: Teaching
+title: Useful links
 subtitle: ''
 
 content:
@@ -41,4 +41,4 @@ design:
 
 **Layout detection**
 
-- [Layout parser](https://layout-parser.github.io/)https://layout-parser.github.io/
+- [Layout parser](https://layout-parser.github.io/)
