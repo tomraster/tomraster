@@ -91,7 +91,7 @@ I'm a Ph.D. candidate in Economics at the Paris School of Economics supervised b
 
 My research mainly focuses on historic forced labor, trade, and migration involving Eastern Europe. I'm particularly passionate about unlocking and leveraging large-scale archival data.
 
-I'm a fellow at the {{< staticref "https://www.icmigrations.cnrs.fr/" "newtab" >}}Institut Convergences Migrations{{< /staticref >}}, the {{< staticref "https://www.amse-aixmarseille.fr/en" "newtab" >}}Aix-Marseille School of Economics{{< /staticref >}}, the {{< staticref "https://inequalitylab.world/en/" "newtab" >}}World Inequality Lab{{< /staticref >}}, and Harvard's {{< staticref "https://www.iq.harvard.edu/" "newtab" >}}Institute for Quantitative Social Science{{< /staticref >}}. In 2021 and 2022, I also was a research and teaching fellow at the Harvard Economics Department. 
+I'm a fellow at the {{< staticref "https://www.icmigrations.cnrs.fr/" "newtab" >}}Institut Convergences Migrations{{< /staticref >}}, the {{< staticref "https://www.amse-aixmarseille.fr/en" "newtab" >}}Aix-Marseille School of Economics{{< /staticref >}}, the {{< staticref "https://inequalitylab.world/en/" "newtab" >}}World Inequality Lab{{< /staticref >}}, and Harvard's {{< staticref "https://www.iq.harvard.edu/" "newtab" >}}Institute for Quantitative Social Science{{< /staticref >}}. Between 2021 and 2023, I also was a research and teaching fellow at the Harvard Economics Department. 
 
 My CV is available {{< staticref "https://www.parisschoolofeconomics.eu/docs/raster-tom/resume-raster-tom.pdf" "newtab" >}}here{{< /staticref >}}. 
 
