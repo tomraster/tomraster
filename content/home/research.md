@@ -85,9 +85,3 @@ Taken together, our findings suggest that past displacement can have lasting neg
 
 - **Windfalls in a manorial economy**
 
-url_pdf: "pdf/teitelbaum_ravi.pdf"
-links: 
-- name: Online Appendix
-  url: pdf/supplemental_information.pdf
----
-
