@@ -68,7 +68,7 @@ We then turn to applying and validating our first name-based value measure. Firs
 In sum, this paper provides scholars with a tractable approach to extracting measures of various values from first names. Our approach is applicable to many settings, given that in its most simple version, relying on famous individuals as namesakes, the only setting-specific data required are first names in the target population. We also provide researchers with US county-level ideology measures for all census years, which we hope will inform future persistence studies and mitigate the 'black box' problem caused by missing data in the intermediate period.<br/><br/></li>
 </details>
 
-- **The long-run political effects of refugees: Evidence from post-WWII Germany**<br> with {{< staticref "https://www.diw.de/sixcms/detail.php?id=diw_01.c.827304.en" "newtab" >}}Li Yang{{< /staticref >}}, DIW
+- **The long-run political effects of refugees: Evidence from post-WWII Germany**<br> with {{< staticref "https://sites.google.com/view/lyang/" "newtab" >}}Li Yang{{< /staticref >}}, ZEW
 <details>
 <summary>Abstract</summary>
 
