@@ -87,9 +87,9 @@ highlight_name: true
 
 Welcome to my website! 👋
 
-I'm a fourth-year Ph.D. candidate in Economics at the Paris School of Economics under the supervision of {{< staticref "http://piketty.pse.ens.fr/en/" "newtab" >}}Thomas Piketty{{< /staticref >}}. 
+I'm a Ph.D. candidate in Economics at the Paris School of Economics supervised by {{< staticref "http://piketty.pse.ens.fr/en/" "newtab" >}}Thomas Piketty{{< /staticref >}}. 
 
-My research mainly focuses on historic forced labor, trade, and migration involving Eastern Europe. I'm particularly passionate about unlocking and leveraging large scale archival data.
+My research mainly focuses on historic forced labor, trade, and migration involving Eastern Europe. I'm particularly passionate about unlocking and leveraging large-scale archival data.
 
 I'm a fellow at the {{< staticref "https://www.icmigrations.cnrs.fr/" "newtab" >}}Institut Convergences Migrations{{< /staticref >}}, the {{< staticref "https://inequalitylab.world/en/" "newtab" >}}World Inequality Lab{{< /staticref >}}, and Harvard's {{< staticref "https://www.iq.harvard.edu/" "newtab" >}}Institute for Quantitative Social Science{{< /staticref >}}. Since 2021, I am also a research and teaching fellow at the Harvard economics department. 
 
