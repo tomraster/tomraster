@@ -39,6 +39,9 @@ design:
   view: 4
 ---
 
+**News**
+- French economic history newsletter: send an email to sympa@groupes.renater.fr with subject line: subscribe histoire_eco
+
 **Layout detection**
 
 - [Layout parser](https://layout-parser.github.io/) (also be sure to join the [Slack](https://layout-parser.slack.com/join/shared_invite/zt-ohjd14k1-OrJ2HltwVRGrxhLeHMfW_w#/shared-invite/email))
