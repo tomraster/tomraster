@@ -47,7 +47,7 @@ design:
 
 - (soon to come)
 
-**Ice observations at Baltic Sea weather-station**
+**Historic Baltic Sea ice data**
 
-- (soon to come)
+- Complete database of freezing and ice breakup collected at sea ice monitoring stations and ports. (soon to come)
 
