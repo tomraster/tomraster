@@ -19,12 +19,15 @@ main:
   - name: Data
     url: '#data'
     weight: 60
+  - name: Useful links
+    url: '#useful_links'
+    weight: 70
   #- name: Contact
   #  url: '#contact'
   #  weight: 60
   - name: CV
     url: "https://www.parisschoolofeconomics.eu/docs/raster-tom/resume-raster-tom.pdf"  #uploads/resume.pdf
-    weight: 70
+    weight: 80
   #- name: Publications
   #  url: '#featured'
   #  weight: 50
