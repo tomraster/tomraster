@@ -41,4 +41,4 @@ design:
 
 **Layout detection**
 
-- [Layout parser](https://layout-parser.github.io/)
+- [Layout parser](https://layout-parser.github.io/) (also be sure to join the Slack)
