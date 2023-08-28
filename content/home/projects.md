@@ -29,6 +29,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Job market paper
+    tag: Job market paper
   - name: Working papers
     tag: Working papers
   - name: Work in progress
