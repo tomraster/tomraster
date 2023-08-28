@@ -37,8 +37,11 @@ main:
   #- name: Publications
   #  url: '#featured'
   #  weight: 50
+  #- name: try_projects
+  #  url: '#projects'
+  #  weight: 90
 
-    #- name: Posts
+  #- name: Posts
   #  url: '#posts'
   #  weight: 20
 
