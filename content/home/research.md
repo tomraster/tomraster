@@ -39,9 +39,9 @@ design:
 
 **Selected work in progress**
 
-{{< imgproc EAA.1.2.C-III-23 Resize "300x" />}}
+{{< imgproc EAA.1.2.C-III-23 Resize "20x" />}}
 
-#![](/EAA.1.2.C-III-23.jpg#floatleft) to float left.
+#![](/EAA.1.2.C-III-23.jpg#floatleft) to float left 2.
 
 - **Persistence of trading relationships** <br/><br/></li> 
 
