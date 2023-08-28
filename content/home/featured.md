@@ -19,6 +19,15 @@ content:
   page_type: publication
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
+  # Filter tom (28.8.23)
+    filter_button:
+  - name: All
+    tag: '*'
+  - name: Deep Learning
+    tag: Deep Learning
+  - name: Other
+    tag: Demo
+
   # Filter on criteria
   filters:
     author: ""
