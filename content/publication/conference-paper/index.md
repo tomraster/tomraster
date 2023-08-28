@@ -17,8 +17,8 @@ publishDate: "2018-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: The European Journal of Development Research
+#publication_short: In *STC*
 
 abstract: In this study, using the Becker–DeGroot–Marschak mechanism, we assess the Willingness to Pay for water filters and solar lamps in Indonesia. The study shows that credit constraints are important determinants of the low levels of WTP and low adoption rates of preventative health technologies. Providing women with an option to spread out the payments for these products over 50 weekly periods more than doubles the maximum WTP.
 
@@ -30,16 +30,16 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
+- name: Journal page
   url: https://link.springer.com/article/10.1057/s41287-017-0078-3
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+#url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -64,12 +64,12 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+#{{% callout note %}}
+#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+#{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+#{{% callout note %}}
+#Create your slides in Markdown - click the *Slides* button to check out the example.
+#{{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
