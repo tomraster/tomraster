@@ -16,7 +16,7 @@ main:
   #- name: Publications2
   #  url: '#publications'
   #  weight: 37
-  - name: Presentations
+  - name: Seminars & conferences
     url: '#presentations'
     weight: 40
   - name: Teaching
