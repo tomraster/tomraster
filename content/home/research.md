@@ -39,7 +39,7 @@ design:
 
 **Selected work in progress**
 test
-{{< imgproc EAA.1.2.C-III-23 Resize "20x" />}}
+
 
  to float left 2.
 
