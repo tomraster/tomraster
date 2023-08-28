@@ -39,7 +39,8 @@ design:
 
 **Selected work in progress**
 
-![Scenario 1: Across columns](/EAA.1.2.C-III-23.jpg)
+![](/EAA.1.2.C-III-23.jpg#floatleft) to float left.
+
 - **Persistence of trading relationships** <br/><br/></li> 
 
 - **When Labor Scarcity Raises Coercion: Evidence from the Great Northern War Plague**
