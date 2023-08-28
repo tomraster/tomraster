@@ -41,18 +41,18 @@ design:
 ---
 **2023**
 
-Grad seminar (Princeton)<sup>s</sup>, Applied Lunch (PSE)<sup>s</sup>, Atelier Simiand (EHESS)<sup>s</sup>
+Grad. Labor (Princeton), Grad. Trade (Princeton), Atelier Simiand (EHESS), Applied Lunch (PSE), ASREC (Harvard), International Economics Lunch (Harvard), Economic History Workshop (Harvard), IC Migration ($\times$ 2), ENS, Eurasia Economic History Workshop (University of Chicago), CEPII, Economic History Association*, AMSE*
+
+(* marks scheduled)
 
 **2022**
 
-Graduate Economic History Seminar (LSE)<sup>s</sup>,
-Economic History Workshop (Harvard), International Workshop (Harvard), History Tea (Harvard), Political Economy Workshop (Harvard),
-Applied Lunch (x1 & x1<sup>c</sup>, PSE), XIX World Economic History Congress
-Cluster Seminar (DIW)<sup>c</sup>
+Graduate Economic History Seminar (LSE), International Economics Lunch (Harvard), PE workshop (Harvard), Economic
+History Workshop (Harvard), Applied Lunch (PSE), XIX World Economic History Congress
 
 **2021**
 
-Atelier Simiand (EHESS), Pol Econ Tea (×2, Harvard), Economic History Workshop (Harvard)
+Atelier Simiand (PSE), Pol Econ Tea (×2, Harvard), Economic History Workshop (Harvard)
 
 **2020**
 
@@ -64,10 +64,7 @@ Baltic Connections (U. Helsinki)
 
 **2018**
 
-Economics-Econometrics-Finance seminar (U. Groningen), Economic History Association (poster, San
-Jose)
-_____
+Economics-Econometrics-Finance seminar (U. Groningen), Economic History Association
 
-<sup>s</sup> marks scheduled, <sup>c</sup> marks presentation by co-author
 
 
