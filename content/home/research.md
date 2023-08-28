@@ -38,10 +38,10 @@ design:
 ---
 
 **Selected work in progress**
-test
 
-
- to float left 2.
+<img src="/EAA.1.2.C-III-23.jpg" 
+     style="margin: 0px 5px 5px 0px; float: left; 
+            width:100px; height:149px; border:0" />
 
 - **Persistence of trading relationships** <br/><br/></li> 
 
