@@ -8,7 +8,7 @@ date: "2018-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-01-01T00:00:00Z"
+publishDate: "2018-07-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,7 +32,7 @@ featured: true
 links:
 - name: Journal page
   url: https://link.springer.com/article/10.1057/s41287-017-0078-3
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://www.dropbox.com/scl/fi/lltyn8eqtuoh2voiu8s3a/Lensink_Raster_Timmer_2017_Liquidity-Constraints-and-Willingness-to-Pay-for-Solar-Lamps-and-Water-Filters-in-Jakarta.pdf?rlkey=2zs3qsxio2x4849ipge4t2yar&dl=0
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: '#'
 #url_poster: '#'
