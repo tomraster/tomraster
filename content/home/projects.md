@@ -11,7 +11,7 @@ active: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projectsdd
+title: Research
 subtitle: ''
 
 content:
@@ -43,7 +43,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
