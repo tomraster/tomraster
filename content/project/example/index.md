@@ -13,6 +13,8 @@ image:
   focal_point: Smart
 
 links:
+- name: Journal page
+  url: https://link.springer.com/article/10.1057/s41287-017-0078-3
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
@@ -27,7 +29,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 
 In this study, using the Becker–DeGroot–Marschak mechanism, we assess the Willingness to Pay for water filters and solar lamps in Indonesia. The study shows that credit constraints are important determinants of the low levels of WTP and low adoption rates of preventative health technologies. Providing women with an option to spread out the payments for these products over 50 weekly periods more than doubles the maximum WTP.
