@@ -41,7 +41,7 @@ design:
 ---
 **2023**
 
-Grad. Labor (Princeton), Grad. Trade (Princeton), Atelier Simiand (EHESS), Applied Lunch (PSE), ASREC (Harvard), International Economics Lunch (Harvard), Economic History Workshop (Harvard), IC Migration ($\times$ 2), ENS, Eurasia Economic History Workshop (University of Chicago), CEPII, Economic History Association*, AMSE*
+Grad. Labor (Princeton), Grad. Trade (Princeton), Atelier Simiand (EHESS), Applied Lunch (PSE), ASREC (Harvard), International Economics Lunch (Harvard), Economic History Workshop (Harvard), IC Migration (×2), ENS, Eurasia Economic History Workshop (University of Chicago), CEPII, Economic History Association*, AMSE*
 
 (* marks scheduled)
 
