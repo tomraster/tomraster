@@ -29,13 +29,15 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Working papers
+    tag: Working papers
+  - name: Work in progress
+    tag: Work in progress
+  - name: Publications
+    tag: Publications
 
 design:
-  # Choose how many columns the section has. Valid values: '1' or '2'.
+  # Choose how many columns the section has. Valid values: '1' or '2'. Tom: tricky bc title moves to the center if 1..
   columns: '2'
 
   # Toggle between the various page layout types.
