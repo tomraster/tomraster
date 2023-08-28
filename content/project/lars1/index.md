@@ -1,6 +1,6 @@
 ---
-title: Liquidity Constraints and Willingness to Pay for Solar Lamps and Water Filters in Jakarta
-summary: <br> -- Robert Lensink, <u>Tom Raster</u>, Angelique Timmer <br> <i>The European Journal of Development Research (2018)</i> <br> <br> In this study, using the Becker–DeGroot–Marschak mechanism, we assess the Willingness to Pay for water filters and solar lamps in Indonesia. The study shows that credit constraints are important determinants of the low levels of WTP and low adoption rates of preventative health technologies. Providing women with an option to spread out the payments for these products over 50 weekly periods more than doubles the maximum WTP.
+title: The effects of bourgeois virtues on US innovation
+summary: <br> -- Lars Harhoff Andersen, <u>Tom Raster</u> <br> <i>Work in progress</i> <br> <br> Praising hard work, risk-taking, and wealth accumulation, so-called bourgeois virtues, are hypothesized drivers of innovation and growth (McCloskey,2006, 2010, 2016). We test this claim, devising a new first-name-based measure of bourgeois virtues and leveraging quasi-exogenous exposure to the bourgeoisie that is provided by road trips of Henry Ford and Thomas Edison ("The Vagabonds") across the US (1914-24). Using variations in the timing of the road trips and the counties Ford and Edison visited, we find that their visits caused an increase in bourgeois virtues and patenting.
 tags:
 - Work in progress
 date: "2017-07-27T00:00:00Z"
