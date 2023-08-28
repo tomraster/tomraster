@@ -31,10 +31,10 @@ featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
+  url: https://link.springer.com/article/10.1057/s41287-017-0078-3
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: '#'
+#url_dataset: '#'
 url_poster: '#'
 url_project: ''
 url_slides: ''
