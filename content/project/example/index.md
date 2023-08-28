@@ -1,8 +1,7 @@
 ---
 title: Liquidity Constraints and Willingness to Pay for Solar Lamps
 and Water Filters in Jakarta
-summary: In this study, using the Becker–DeGroot–Marschak mechanism, we assess the Willingness
-to Pay for water filters and solar lamps in Indonesia. The study shows that credit constraints are important determinants of the low levels of WTP and low adoption rates of preventative health technologies. Providing women with an option to spread out the payments for these products over 50 weekly periods more than doubles the maximum WTP.
+summary: In this study, using the Becker–DeGroot–Marschak mechanism, we assess the Willingness to Pay for water filters and solar lamps in Indonesia. The study shows that credit constraints are important determinants of the low levels of WTP and low adoption rates of preventative health technologies. Providing women with an option to spread out the payments for these products over 50 weekly periods more than doubles the maximum WTP.
 tags:
 - Deep Learning
 date: "2017-04-27T00:00:00Z"
