@@ -39,7 +39,7 @@ design:
   view: 4
 ---
 
-**Baltic economic history database**
+**Baltic Economic History (BIH) database**
 
 - (soon to come)
 
