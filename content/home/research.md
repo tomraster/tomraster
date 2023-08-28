@@ -41,7 +41,7 @@ design:
 
 {{< imgproc EAA.1.2.C-III-23 Resize "300x" />}}
 
-![](/EAA.1.2.C-III-23.jpg#floatleft) to float left.
+#![](/EAA.1.2.C-III-23.jpg#floatleft) to float left.
 
 - **Persistence of trading relationships** <br/><br/></li> 
 
