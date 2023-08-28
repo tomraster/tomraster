@@ -10,9 +10,12 @@ main:
   - name: Research
     url: '#research'
     weight: 30
-  - name: Publications
-    url: '#featured'
-    weight: 35
+  - name: Research
+    url: '#projects'
+    weight: 31  
+  #- name: Publications
+  #  url: '#featured'
+  #  weight: 35
   #- name: Publications2
   #  url: '#publications'
   #  weight: 37
