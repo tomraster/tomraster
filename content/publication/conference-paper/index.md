@@ -4,11 +4,11 @@ authors:
 - Robert Lensink
 - admin
 - Angelique Timmer
-date: "2017-07-01T00:00:00Z"
+date: "2018-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2018-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,7 +23,7 @@ publication_short: In *STC*
 abstract: In this study, using the Becker–DeGroot–Marschak mechanism, we assess the Willingness to Pay for water filters and solar lamps in Indonesia. The study shows that credit constraints are important determinants of the low levels of WTP and low adoption rates of preventative health technologies. Providing women with an option to spread out the payments for these products over 50 weekly periods more than doubles the maximum WTP.
 
 # Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this study, using the Becker–DeGroot–Marschak mechanism, we assess the Willingness to Pay for water filters and solar lamps in Indonesia. The study shows that credit constraints are important determinants of the low levels of WTP and low adoption rates of preventative health technologies. Providing women with an option to spread out the payments for these products over 50 weekly periods more than doubles the maximum WTP.
 
 tags:
 - Source Themes
