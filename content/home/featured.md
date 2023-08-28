@@ -19,15 +19,7 @@ content:
   page_type: publication
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
-  # Filter on criteria
-  filters:
-    author: ""
-    category: ""
-    publication_type: ""
-    tag: ""
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
-# Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
@@ -41,6 +33,15 @@ content:
     tag: Deep Learning
   - name: Other
     tag: Demo
+  # Filter on criteria
+  filters:
+    author: ""
+    category: ""
+    publication_type: ""
+    tag: ""
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
+  
 design:
   # Choose a view for the listings:
   #   1 = List
