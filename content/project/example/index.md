@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Liquidity Constraints and Willingness to Pay for Solar Lamps and Water Filters in Jakarta
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
