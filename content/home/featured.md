@@ -27,7 +27,6 @@ content:
     tag: Deep Learning
   - name: Other
     tag: Demo
-
   # Filter on criteria
   filters:
     author: ""
