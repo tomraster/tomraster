@@ -1,6 +1,6 @@
 ---
-title: Wealth under serfdom
-summary: <br> -- <u>Tom Raster</u> <br> <i>Work in progress</i> 
+title: Wealth under serfdom in the Baltics, 1200-1922
+summary: <br> -- <u>Tom Raster</u> <br> <i>Work in progress</i> <br> <br> I quantify the wealth of noble landowners and (freed) serfs in the Baltics (Estonia and Latvia). I shows how different events and how family ties were used to offset those losses. 
 tags:
 - Work in progress
 date: "2022-09-27T00:00:00Z"
