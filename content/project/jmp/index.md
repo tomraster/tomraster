@@ -5,7 +5,7 @@ summary: <br> -- <u>Tom Raster</u> <br> <i>Job Market Paper</i> <br> <br> <small
 tags:
 - Job market paper
 - Working papers
-date: "2024-10-27T00:00:00Z"
+date: "2023-08-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
