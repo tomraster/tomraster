@@ -1,6 +1,6 @@
 ---
 title: Wealth and serfdom: the Baltics, 1200-1939
-summary: <br> -- <u>Tom Raster</u> <br> <i>Work in progress</i> <br> <br> I quantify the wealth of noble landowners and (freed) serfs in Estonia and Latvia from the beginning of the colonization by Baltic Germans in the 1200s to the end of the first period of independence in 1939. To this end, I collect extensive data on the landholdings of individual Baltic Germans and their families and show how their wealth recovers following shocks (plagues, wars, and conquests). I also document the slow rise in landownership among formerly enserfed ethnic Estonians and Latvians following the abolition of serfdom in 1816-9. The wealth gap between Baltic Germans and ethnic Estonians and Latvians only significantly closed following land reforms after the independence from Russia in 1918-9.
+summary: <br> -- <u>Tom Raster</u> <br> <i>Work in progress</i> <br> <br> I quantify the wealth of noble landowners and (freed) serfs in Estonia and Latvia from the beginning of the colonization by Baltic Germans in the 1200s to the end of the first period of independence in 1939. To this end, I collect extensive data on the landholdings of individual Baltic Germans and their families and show how their wealth recovers following shocks (plagues, wars, and conquests). I also document the slow rise in landownership among formerly enserfed ethnic Estonians and Latvians following the abolition of serfdom in 
 tags:
 - Work in progress
 date: "2022-09-27T00:00:00Z"
