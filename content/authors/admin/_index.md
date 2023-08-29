@@ -89,7 +89,7 @@ highlight_name: true
 
 My [research](#projects) mainly focuses on historical trade, forced labor, and migration involving Eastern Europe. I'm particularly passionate about unlocking and leveraging large-scale archival data.
 
-<b>I am on the 2023/2024 Job Market.<\b>
+<b>I am on the 2023/2024 Job Market.</b>
 
 I'm a fellow at the {{< staticref "https://www.icmigrations.cnrs.fr/" "newtab" >}}Institut Convergences Migrations{{< /staticref >}}, the {{< staticref "https://www.amse-aixmarseille.fr/en" "newtab" >}}Aix-Marseille School of Economics{{< /staticref >}}, the {{< staticref "https://inequalitylab.world/en/" "newtab" >}}World Inequality Lab{{< /staticref >}}, and Harvard's {{< staticref "https://www.iq.harvard.edu/" "newtab" >}}Institute for Quantitative Social Science{{< /staticref >}}. From 2021 to 2023, I was a research and teaching fellow at the Harvard Economics Department. 
 
