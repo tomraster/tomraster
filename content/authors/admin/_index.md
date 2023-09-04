@@ -91,8 +91,8 @@ My [research](#projects) focuses mainly on historical trade, forced labor, and m
 
 <b>I am on the 2023/2024 Job Market.</b>
 
-I am a fellow at the {{< staticref "https://www.icmigrations.cnrs.fr/" "newtab" >}}Institut Convergences Migrations{{< /staticref >}}, the {{< staticref "https://www.amse-aixmarseille.fr/en" "newtab" >}}Aix-Marseille School of Economics{{< /staticref >}}, the {{< staticref "https://inequalitylab.world/en/" "newtab" >}}World Inequality Lab{{< /staticref >}}, and Harvard's {{< staticref "https://www.iq.harvard.edu/" "newtab" >}}Institute for Quantitative Social Science{{< /staticref >}}. From 2021 to 2023, I was a research and teaching fellow at the Harvard Economics Department. 
+I am a fellow at the {{< staticref "https://www.amse-aixmarseille.fr/en" "newtab" >}}Aix-Marseille School of Economics{{< /staticref >}}, {{< staticref "https://www.icmigrations.cnrs.fr/" "newtab" >}}Institut Convergences Migrations{{< /staticref >}}, the {{< staticref "https://inequalitylab.world/en/" "newtab" >}}World Inequality Lab{{< /staticref >}}, and Harvard's {{< staticref "https://www.iq.harvard.edu/" "newtab" >}}Institute for Quantitative Social Science{{< /staticref >}}. From 2021 to 2023, I was a research and teaching fellow at the Harvard Economics Department. 
 
 My CV is available {{< staticref "https://www.parisschoolofeconomics.eu/docs/raster-tom/resume-raster-tom.pdf" "newtab" >}}here{{< /staticref >}}. 
 
-Don't hesitate to contact me at <a href = "mailto: tom.raster@psemail.eu">tom.raster@psemail.eu</a> and <a href="https://twitter.com/tomraster?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @tomraster</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Don't hesitate to contact me at <a href = "mailto: tom.raster@psemail.eu">tom.raster[at]psemail.eu</a> or <a href="https://twitter.com/tomraster?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @tomraster</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
