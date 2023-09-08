@@ -17,7 +17,7 @@ image:
 links:
 - name: Draft coming soon
 #- name: Cite
-#  url: https://www.dropbox.com/scl/fi/ofq3zofby9ipowbimj7pk/cite_Lensink_Raster_Timmer_2017_Liquidity-Constraints-and-Willingness-to-Pay-for-Solar-Lamps-and-Water-Filters-in-Jakarta.txt?rlkey=3nf7i4o6kbrpoz6po7ecy8lo1&dl=0
+#  url: https://www.dropbox.com/scl/fi/o8d7i8ru1d7dmq1ozzqqg/Raster_JMP_Breaking_the_ice.pdf?rlkey=ryvrf1j5mi50m9ibyu40ziav1&dl=0
 #- name: Journal page
 #  url: https://link.springer.com/article/10.1057/s41287-017-0078-3
 #- icon: twitter
