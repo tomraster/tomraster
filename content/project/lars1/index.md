@@ -2,7 +2,7 @@
 title: The effects of bourgeois virtues on US innovation
 summary: <br> -- Lars Harhoff Andersen (U Copenhagen), <u>Tom Raster</u> <br> <i>Work in progress</i> <br> <br><small> Praising hard work, risk-taking, and wealth accumulation, so-called bourgeois virtues, are hypothesized drivers of innovation and growth (McCloskey, 2006, 2010, 2016). We test this claim, devising a new first-name-based measure of bourgeois virtues and leveraging quasi-exogenous exposure to the bourgeoisie that is provided by road trips of Henry Ford and Thomas Edison ("The Vagabonds") across the US (1914-24). Using variations in the timing of the road trips and the counties Ford and Edison visited, we find that their visits caused an increase in bourgeois virtues and patenting. <br> <br><i> presented at&#58; ASREC 2023 (Harvard), PE Workshop (Harvard) </i></small>
 tags:
-- Work in progress
+- Working paper
 date: "2022-07-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
